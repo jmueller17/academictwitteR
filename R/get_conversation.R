@@ -7,7 +7,7 @@
 #' @return a data frame
 #' @export
 #' 
-get_conversations <- function(conversation_ids, ...){
+get_conversation <- function(conversation_ids, ...){
     
     df.new <- data.frame()
     
